@@ -1,6 +1,5 @@
-torch
-torchvision
-numpy
-scikit-image
-Pillow
-tqdm
+torch==2.2.0
+torchvision==0.17.0
+tqdm==4.66.1
+Pillow==10.2.0
+gradio==4.12.0
